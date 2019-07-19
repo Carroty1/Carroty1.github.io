@@ -1,0 +1,50 @@
+* {
+	box-sizing: border-box;
+}
+.container {
+	background-color: #e9f3f3;
+}
+.form-account {
+	background-color: #fbfdfd;
+	font-weight: 600;
+	margin-top: 100px;
+	padding: 10px 20px;
+	height: 365px;
+	width: 320px;
+}
+.form-account p {
+	font-family: Arial;
+	font-style: "Bolt";
+	font-size: 12px;
+	margin: 8px;
+}
+.header {
+	padding: 5px;
+	text-transform: uppercase;
+	color: #FFF;
+	font-size: 12px;
+	font-weight: 700;
+	letter-spacing: 1px;
+	height: 25px;
+	width: 149px;
+	margin-top: -12px;
+	margin-left: 10px;
+	margin-bottom: 30px;
+	background-color: #01b3b3;
+}
+.form-account input {
+	height: 35px;
+	font-family: Arial;
+	font-style: "Regular";
+	font-size: 12px;
+}
+.form-account button {
+	text-transform: uppercase;
+	margin-top: 35px;
+	margin-bottom: 30px;
+	font-family: Arial;
+	font-style: "Bolt";
+	font-size: 16px;
+	font-weight: 700;
+
+}
